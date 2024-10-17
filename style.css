@@ -70,7 +70,7 @@ li a:hover{
     bottom: 4rem;
     font-size: 4rem;
     word-spacing: 10px;
-    margin-bottom: -40px;
+    margin-bottom: -10px;
 }
 .main-btn{
     position: absolute;
@@ -81,4 +81,44 @@ li a:hover{
     background: var(--main-color);
     border:none;
     transform: translateY(80px);
+}
+.header{
+    background: url(/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: normal;
+}
+.Who-are-we{
+    height: 100vh;
+    margin-top: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.img{
+    width: 400px;
+    height: 400px;
+    background: url(/images/IMG_6295.jpg);
+    background-position: center;
+
+}
+.title-style{
+    display: flex;
+    align-items: center;
+}
+.title{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: normal;
+    display: flex;
+    font-size: 4rem;
+    color: white;
+    transform: translateX(-100px);
 }
