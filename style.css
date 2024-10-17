@@ -31,3 +31,43 @@ li{
     display: inline;
     list-style: none;
 }
+li a{
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+    padding-bottom: 9px;
+}
+li a:hover{
+    border-bottom: 2px solid var(--main-color);
+
+}
+.header{
+    background: url(images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
+    background-position: center;
+    background-size:cover;
+    height: 100vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    /* flexbox */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: relative;
+
+}
+.main-heading{
+    position: absolute;
+    top: 7rem;
+    font-size: 4rem;
+    word-spacing: 10px;
+    margin-bottom: -40px;
+}
+.primary-heading{
+    position: absolute;
+    bottom: 4rem;
+    font-size: 4rem;
+    word-spacing: 10px;
+    margin-bottom: 3px;
+}
