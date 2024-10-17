@@ -102,10 +102,11 @@ li a:hover{
 
 }
 .img{
-    width: 400px;
-    height: 400px;
+    width: 900px;
+    height: 900px;
     background: url(/images/IMG_6295.jpg);
     background-position: center;
+    background-size: cover;
 
 }
 .title-style{
