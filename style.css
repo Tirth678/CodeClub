@@ -122,3 +122,20 @@ li a:hover{
     color: white;
     transform: translateX(-100px);
 }
+.line{
+    width: 100px;
+    height: 2px;
+    background: white;
+    transform: translateX(-120px);
+}
+.section-content p{
+    max-width: 500px;
+    color: white;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 20px;
+    margin: 20px;
+    padding-left: 20px;
+}
