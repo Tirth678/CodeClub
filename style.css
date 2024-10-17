@@ -46,9 +46,10 @@ li a:hover{
     background-position: center;
     background-size:cover;
     height: 100vh;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
     font-weight: normal;
-    /* flexbox */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -69,5 +70,15 @@ li a:hover{
     bottom: 4rem;
     font-size: 4rem;
     word-spacing: 10px;
-    margin-bottom: 3px;
+    margin-bottom: -40px;
+}
+.main-btn{
+    position: absolute;
+    bottom: 2rem;
+    padding: 10px 40px;
+    margin-top: 20px;
+    background: transparent;
+    background: var(--main-color);
+    border:none;
+    transform: translateY(80px);
 }
