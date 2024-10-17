@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.main-heading{
+    color: white;
+    /* position: absolute; */
+    bottom: 4rem;
+    font-size: 4rem;
+    word-spacing: 10px;
+    margin-bottom: -10px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+p{
+    color: white;
+    text-align: center;
+}
