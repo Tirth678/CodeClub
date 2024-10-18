@@ -60,7 +60,7 @@ li a:hover{
 }
 .main-heading{
     position: absolute;
-    top: 7rem;
+    top: 4rem;
     font-size: 4rem;
     word-spacing: 10px;
     margin-bottom: -40px;
@@ -68,9 +68,10 @@ li a:hover{
 .primary-heading{
     position: absolute;
     bottom: 4rem;
-    font-size: 4rem;
+    font-size: 0.9rem;
     word-spacing: 10px;
     margin-bottom: -10px;
+    text-align: center;
 }
 .main-btn{
     position: absolute;
