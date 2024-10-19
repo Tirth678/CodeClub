@@ -39,7 +39,6 @@ li a{
 }
 li a:hover{
     border-bottom: 2px solid var(--main-color);
-
 }
 .header{
     background: url(images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
@@ -56,7 +55,6 @@ li a:hover{
     align-items: center;
     color: white;
     position: relative;
-
 }
 .main-heading{
     position: absolute;
@@ -101,7 +99,6 @@ li a:hover{
     justify-content: space-around;
     align-items: center;
     padding-bottom: 20px;
-
 }
 .img{
     width: 400px;
@@ -111,7 +108,6 @@ li a:hover{
     background-size: cover;
     transform: translateX(-20px);
     /* transform: translateY(120px); */
-
 }
 .title-style{
     display: flex;
