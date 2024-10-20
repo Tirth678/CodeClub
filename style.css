@@ -41,7 +41,7 @@ li a:hover{
     border-bottom: 2px solid var(--main-color);
 }
 .header{
-    background: url(https://github.com/Tirth678/CodeClub/blob/main/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG?raw=true);
+    background: url(https://raw.githubusercontent.com/Tirth678/CodeClub/refs/heads/main/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
     background-position: center;
     background-size:cover;
     height: 100vh;
@@ -82,7 +82,7 @@ li a:hover{
     transform: translateY(80px);
 }
 .header{
-    background: url(/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
+    background: url(https://raw.githubusercontent.com/Tirth678/CodeClub/refs/heads/main/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -103,7 +103,7 @@ li a:hover{
 .img{
     width: 400px;
     height: 400px;
-    background: url(/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
+    background: url(https://raw.githubusercontent.com/Tirth678/CodeClub/refs/heads/main/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
     background-position: center;
     background-size: cover;
     transform: translateX(-20px);
