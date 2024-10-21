@@ -166,3 +166,52 @@ li a:hover{
     transform: translateX(-250px);
 
 }
+.event {
+    padding: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  h2 {
+    padding-left: 41px;
+    color: #f9b625; /* Gold-like color */
+    font-size: 24px;
+    font-weight:600;
+    margin-bottom: 5px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Inter', sans-serif;
+    /* color: #888888; */
+  }
+#projectpara{
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Inter', sans-serif;
+    padding-right: 41px;
+}
+
+.project {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  h2 {
+    color: #f9b625; /* Gold-like color */
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    text-align: left;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #888888; /* Paragraph text color */
+    margin-bottom: 20px;
+    text-align: left;
+  }
