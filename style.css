@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 :root{
     --main-color: #deab5f;
     --primary-color: #312e2e;
+}
+p{
+    letter-spacing: 2px;
+    word-break: normal;
+    word-spacing: 5px;
+    color: #888888;
 }
 
 button{
@@ -115,13 +121,17 @@ li a:hover{
     /* transform: translateY(-120px); */
 }
 .title{
-    font-family: "Playfair Display", serif;
+    /* font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
-    font-style: normal;
-    font-weight: normal;
+    font-style: normal; */
+    /* font-weight: normal; */
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     /* font-weight: normal; */
+     font-style: normal;
     display: flex;
-    font-size: 4rem;
-    color: white;
+    font-size: 50px;
+    color: #CC9527;
     transform: translateX(-100px);
 }
 .line{
@@ -140,4 +150,19 @@ li a:hover{
     line-height: 20px;
     margin: 20px;
     padding-left: 20px;
+}
+.title2{
+    /* font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal; */
+    /* font-weight: normal; */
+    font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     /* font-weight: normal; */
+     font-style: normal;
+    display: flex;
+    font-size: 50px;
+    color: #CC9527;
+    transform: translateX(-250px);
+
 }
