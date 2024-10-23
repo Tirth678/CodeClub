@@ -218,7 +218,27 @@ li a:hover{
     font-style: normal;
     font-weight: normal;
     line-height: 20px;
-    margin: 20px;
-    padding-left: 20px;
+    /* margin: 20px; */
+    padding-bottom: 200px;
     color: #888888;
   }
+.img2{
+    width: 400px;
+    height: 400px;
+    background: url(https://raw.githubusercontent.com/Tirth678/CodeClub/refs/heads/main/images/E5471C36-8B19-4E80-84FE-165CE44A4C5C.JPEG);
+    background-position: center;
+    background-size: cover;
+    transform: translateX(600px);
+}
+
+.section-content-projects{
+    max-width: 500px;
+    color: white;
+    font-family: "Playfair Display", serif;
+    /* font-optical-sizing: auto; */
+    font-style: normal;
+    font-weight: normal;
+    line-height: 20px;
+    margin: 20px;
+    padding-left: 20px;
+}
